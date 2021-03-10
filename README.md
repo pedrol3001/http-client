@@ -1,6 +1,6 @@
 # Http Client
 
-Http client tha shows the response in a graphical interface
+Http client that shows the response in a graphical interface
 
 Dependencies:
 
