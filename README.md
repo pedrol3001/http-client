@@ -1,7 +1,10 @@
 # Http Client
 
-Cliente Http feito em python com o objetivo de mostrar o retorno de consoltas http
+Http client tha shows the response in a graphical interface
 
-Dependências:
+Dependencies:
 
-        kivy 1.0 - Utilizado para criar uma interface gráfica simples.
+        kivy 1.0 - Uses to create the graphical interface
+        
+Run:
+        python .\httpClient.py
